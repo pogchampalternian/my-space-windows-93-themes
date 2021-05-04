@@ -1,21 +1,21 @@
-/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/nature/nat-9/nat839.cur), auto !important;} /* End https://www.cursors-4u.com */
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/games/gam-16/gam1537.cur), auto !important;} /* End https://www.cursors-4u.com */
 
 .logo{
       font-size:0;
 }
 
 .logo::after{
-    content:"𝓅𝓁𝒶𝓃𝓉 𝓂𝑜𝓂";
+    content:"𝓌ₕₑₙ ₜₕₑ ⱼₑₛₜₑᵣ 𝓰ₑₜ ₘₐ𝒹 ₚᵤₜ ₐ 𝓰ᵤₙ ᵢₙ ₕᵢₛ ₕₑₐ𝒹₋";
     text-shadow: 2px 2px 4px #000;
-    color: #ffe194;
+    color: #F5E4FC;
     line-height: 10px;
     font-size: 20px;
     padding: 70px;
 }
 
 div#header {
-    background-image: url(https://data.whicdn.com/images/345087141/original.jpg);
-    background-color: #a7bf93;
+    background-image: url(https://pipe.miroware.io/6033adc3a333fb12a3ac5486/download%20-%202021-05-03T195057.961.jpeg);
+    background-color: #630F88;
     background-position: 0px -400px;
     text-align: center;
     font-family: monospace;
@@ -48,7 +48,7 @@ h4 {
 body {
     color: white;
     background-color: #a7bf93;
-    background-image: url("https://i.pinimg.com/originals/6c/b0/9a/6cb09a6cdf4f90915bd96ac05a0568e1.gif");
+    background-image: url("https://pipe.miroware.io/6033adc3a333fb12a3ac5486/images%20(87).jpeg");
     background-size: 69%;
     background-attachment:fixed;
     font-family: monospace;
@@ -66,7 +66,7 @@ body {
 }
 
 .url {
-    background: url(https://cdn140.picsart.com/321871657366211.png) no-repeat;
+    background: url(https://pipe.miroware.io/6033adc3a333fb12a3ac5486/download%20(58).png) no-repeat;
     position: fixed;
     right: 0;
     bottom: -120px;
@@ -86,8 +86,7 @@ body {
     margin-top: 20px;
     background-repeat: no-repeat
     background-color: #C8A2C8;
-    background-image: url(https://data.whicdn.com/images/345087141/original.jpg);
-    border: 2px dashed #a7bf93;
+    background-image: url(https://pipe.miroware.io/6033adc3a333fb12a3ac5486/download%20-%202021-05-03T200343.363.jpeg)
     box-sizing: border-box;
 }
  
